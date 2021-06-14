@@ -1,5 +1,6 @@
 #!/usr/bin/python
- 
+#heyitsak
+
 #Install SleekXMPP & xmpppy Modules
 #This program is not for children -(18)
 #This program is only for educational purposes only.
